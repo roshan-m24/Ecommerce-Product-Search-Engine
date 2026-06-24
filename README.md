@@ -1,1 +1,1 @@
-# Submission-ready starter. Import provided CSV and run tests.
+Django REST API with JWT Authentication and relevance-based product search ranking.
